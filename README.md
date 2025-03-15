@@ -6,7 +6,7 @@
 *DiST-4D* is the first framework to achieve **feed-forward** dynamic 4D driving scene generation with both temporal extrapolation and spatial novel view synthesis.
 
 ### Framework:
-<div align=center><img width="1220" height="473" src="./assets/Fig_ppl.png"/></div>
+<div align=center><img width="960" height="372" src="./assets/Fig_ppl.png"/></div>
 
 **Overall framework of the proposed DiST-4D.** DiST-4D is a disentangled spatiotemporal diffusion framework for 4D driving scene generation, leveraging metric depth as the core geometric representation to enable both temporal extrapolation and spatial novel view synthesis (NVS). 
 **(Top: Temporal Generation)** DiST-T employs a diffusion model to predict future multi-camera RGB-D sequences from historical multi-camera images and control signals. The generated RGB-D sequences are then aggregated into point clouds, allowing for bullet time rendering. **(Bottom: Spatial Generation)** To enable spatial NVS, DiST-S leverages the predicted RGB-D sequences to generate novel viewpoints by first projecting them into sparse conditions and then refining them into dense RGB-D outputs.
