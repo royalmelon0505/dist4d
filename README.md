@@ -1,5 +1,7 @@
 ## DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation
 
+[![arXiv paper](https://img.shields.io/badge/arXiv%20%2B%20supp-2503.-purple)](https://arxiv.org/abs/) 
+
 [![Code page](https://img.shields.io/badge/Project%20Page-DiST4D-red)](https://royalmelon0505.github.io/DiST-4D/)
 
 
@@ -22,14 +24,21 @@ Current generative models struggle to synthesize dynamic 4D driving scenes that 
 
 
 
-
-
-### License
-This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
-
+### Related Projects
+Thanks to these excellent open-sourced repos: [TransMVSNet](https://github.com/megvii-research/TransMVSNet),[DepthLab](https://github.com/ant-research/DepthLab),[MagicDriveDiT](https://github.com/flymin/MagicDriveDiT),[FreeVS](https://github.com/esdolo/FreeVS),[ViewCrafter](https://github.com/Drexubery/ViewCrafter)
 
 
 
 
 ### Citation
 If you find our paper and code useful for your research, please consider citing:
+
+```bibtex
+
+@article{guo2024dist4d,
+  title={DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation},
+  author={},
+  journal={arXiv preprint arXiv:2503.},
+  year={2025}
+}
+```
