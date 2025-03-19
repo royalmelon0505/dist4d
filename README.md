@@ -1,8 +1,10 @@
-# <center> DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation
+<!-- # <center> DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation -->
 
 <div align="center">
-<!-- ___<font size="10">***DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation***</font>___ -->
 
+___<font size="10">***DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation***</font>___
+<br>
+<br>
 <a href='https://arxiv.org/pdf/2503.10604'><img src='https://img.shields.io/badge/arXiv-b31b1b.svg'></a>
 &nbsp;
 <a href='https://royalmelon0505.github.io/DiST-4D/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
