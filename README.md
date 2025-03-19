@@ -1,14 +1,14 @@
-<div align="center">
+# <center> DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation
 
-___<font size="6">***DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation***</font>___
-<br>
-<br>
+<div align="center">
+<!-- ___<font size="10">***DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation***</font>___ -->
+
 <a href='https://arxiv.org/pdf/2503.10604'><img src='https://img.shields.io/badge/arXiv-b31b1b.svg'></a>
 &nbsp;
 <a href='https://royalmelon0505.github.io/DiST-4D/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 &nbsp;
 
-_**[Jiazhe Guo](https://scholar.google.com/citations?hl=zh-CN&user=pWLqZnoAAAAJ), [Yikang Ding](https://scholar.google.com/citations?hl=zh-CN&user=gdP9StQAAAAJ), [Xiwu Chen](https://scholar.google.com/citations?user=PVMQa-IAAAAJ), [Shuo Chen](), [Bohan Li](https://scholar.google.com/citations?hl=zh-CN&user=V-YdQiAAAAAJ), [Yingshuang Zou](https://heiheishuang.xyz), <br>[Xiaoyang Lyu](https://shawlyu.github.io/), [Feiyang Tan](https://scholar.google.com/citations?hl=zh-CN&user=KeiZBdMAAAAJ), [Xiaojuan Qi](https://scholar.google.com/citations?hl=zh-CN&user=bGn0uacAAAAJ), [Zhiheng Li](https://www.sigs.tsinghua.edu.cn/lzh_en/main.htm),[Hao Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ygQznUQAAAAJ)**_
+_**[Jiazhe Guo](https://scholar.google.com/citations?hl=zh-CN&user=pWLqZnoAAAAJ), [Yikang Ding](https://scholar.google.com/citations?hl=zh-CN&user=gdP9StQAAAAJ), [Xiwu Chen](https://scholar.google.com/citations?user=PVMQa-IAAAAJ), [Shuo Chen](), [Bohan Li](https://scholar.google.com/citations?hl=zh-CN&user=V-YdQiAAAAAJ), [Yingshuang Zou](https://heiheishuang.xyz), <br>[Xiaoyang Lyu](https://shawlyu.github.io/), [Feiyang Tan](https://scholar.google.com/citations?hl=zh-CN&user=KeiZBdMAAAAJ), [Xiaojuan Qi](https://scholar.google.com/citations?hl=zh-CN&user=bGn0uacAAAAJ), [Zhiheng Li](https://www.sigs.tsinghua.edu.cn/lzh_en/main.htm), [Hao Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ygQznUQAAAAJ)**_
 <br><br>
 </div>
 
