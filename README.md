@@ -5,7 +5,7 @@
 ___<font size="10">***DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation***</font>___
 <br>
 <br>
-<a href='https://arxiv.org/pdf/2503.10604'><img src='https://img.shields.io/badge/arXiv-b31b1b.svg'></a>
+<a href='https://arxiv.org/pdf/2503.15208'><img src='https://img.shields.io/badge/arXiv-2503.15208-b31b1b.svg'></a>
 &nbsp;
 <a href='https://royalmelon0505.github.io/DiST-4D/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 &nbsp;
@@ -29,7 +29,7 @@ DiST-4D is a disentangled spatiotemporal diffusion framework for 4D driving scen
 **(Top: Temporal Generation)** DiST-T employs a diffusion model to predict future multi-camera RGB-D sequences from historical multi-camera images and control signals. The generated RGB-D sequences are then aggregated into point clouds, allowing for bullet time rendering. **(Bottom: Spatial Generation)** To enable spatial NVS, DiST-S leverages the predicted RGB-D sequences to generate novel viewpoints by first projecting them into sparse conditions and then refining them into dense RGB-D outputs.
 
 ## 🔆 News
-- [2025/3]: Paper is on [arxiv](https://arxiv.org/abs/).
+- [2025/3]: Paper is on [arxiv](https://arxiv.org/abs/2503.15208).
 - [2025/3]: Demo is released on [Project Page](https://royalmelon0505.github.io/DiST-4D/).
 
 ## 👀 Abstract
@@ -57,8 +57,8 @@ If you find our paper and code useful for your research, please consider citing:
 ```bibtex
 @article{guo2024dist4d,
   title={DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation},
-  author={},
-  journal={arXiv preprint arXiv:2503.},
+  author={Jiazhe Guo and Yikang Ding and Xiwu Chen and Shuo Chen and Bohan Li and Yingshuang Zou and Xiaoyang Lyu and Feiyang Tan and Xiaojuan Qi and Zhiheng Li and Hao Zhao},
+  journal={arXiv preprint arXiv:2503.15208},
   year={2025}
 }
 ```
