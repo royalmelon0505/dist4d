@@ -29,6 +29,7 @@ DiST-4D is a disentangled spatiotemporal diffusion framework for 4D driving scen
 **(Top: Temporal Generation)** DiST-T employs a diffusion model to predict future multi-camera RGB-D sequences from historical multi-camera images and control signals. The generated RGB-D sequences are then aggregated into point clouds, allowing for bullet time rendering. **(Bottom: Spatial Generation)** To enable spatial NVS, DiST-S leverages the predicted RGB-D sequences to generate novel viewpoints by first projecting them into sparse conditions and then refining them into dense RGB-D outputs.
 
 ## 🔆 News
+- [2025/3]: Check out our other latest works on generative world models: [UniScene](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation/blob/master/README.md), [MuDG](https://github.com/heiheishuang/MuDG), [HERMES](https://lmd0311.github.io/HERMES/).
 - [2025/3]: Paper is on [arxiv](https://arxiv.org/abs/2503.15208).
 - [2025/3]: Demo is released on [Project Page](https://royalmelon0505.github.io/DiST-4D/).
 
