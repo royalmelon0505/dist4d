@@ -12,6 +12,7 @@ ___<font size="10">***DiST-4D: Disentangled Spatiotemporal Diffusion with Metric
 
 _**[Jiazhe Guo](https://scholar.google.com/citations?hl=zh-CN&user=pWLqZnoAAAAJ), [Yikang Ding](https://scholar.google.com/citations?hl=zh-CN&user=gdP9StQAAAAJ), [Xiwu Chen](https://scholar.google.com/citations?user=PVMQa-IAAAAJ), [Shuo Chen](), [Bohan Li](https://scholar.google.com/citations?hl=zh-CN&user=V-YdQiAAAAAJ), [Yingshuang Zou](https://heiheishuang.xyz), <br>[Xiaoyang Lyu](https://shawlyu.github.io/), [Feiyang Tan](https://scholar.google.com/citations?hl=zh-CN&user=KeiZBdMAAAAJ), [Xiaojuan Qi](https://scholar.google.com/citations?hl=zh-CN&user=bGn0uacAAAAJ), [Zhiheng Li](https://www.sigs.tsinghua.edu.cn/lzh_en/main.htm), [Hao Zhao](https://scholar.google.com/citations?hl=zh-CN&user=ygQznUQAAAAJ)**_
 <br><br>
+<font size="10">ICCV 2025</font>
 </div>
 
 <!-- ## DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation -->
@@ -29,6 +30,8 @@ DiST-4D is a disentangled spatiotemporal diffusion framework for 4D driving scen
 **(Top: Temporal Generation)** DiST-T employs a diffusion model to predict future multi-camera RGB-D sequences from historical multi-camera images and control signals. The generated RGB-D sequences are then aggregated into point clouds, allowing for bullet time rendering. **(Bottom: Spatial Generation)** To enable spatial NVS, DiST-S leverages the predicted RGB-D sequences to generate novel viewpoints by first projecting them into sparse conditions and then refining them into dense RGB-D outputs.
 
 ## 🔆 News
+- [2025/6]: Paper is accepted on **ICCV 2025**.
+- [2025/3]: Check out our other latest works on generative world models: [UniScene](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation/blob/master/README.md), [MuDG](https://github.com/heiheishuang/MuDG), [HERMES](https://lmd0311.github.io/HERMES/).
 - [2025/3]: Paper is on [arxiv](https://arxiv.org/abs/2503.15208).
 - [2025/3]: Demo is released on [Project Page](https://royalmelon0505.github.io/DiST-4D/).
 
