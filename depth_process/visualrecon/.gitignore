@@ -1,0 +1,17 @@
+*__pycache__*
+*.vscode*
+*.github*
+*=10.1*
+*tmp*
+.vscode/
+logs/
+tmp/
+SfM/colmap_3.8/build/
+SfM/colmap_3.8/.azure-pipelines/
+SfM/hloc/hloc.egg-info/
+SfM/hloc/third_party/
+SemSeg/SegFormer/mmsegmentation.egg-info/
+/test_fuse.sh
+
+/MVS_Scene*
+/occ_waymo

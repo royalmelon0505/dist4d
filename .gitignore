@@ -1,0 +1,9 @@
+**/__pycache__
+DiST_T/infer_424full/
+DiST_S/ckpt/
+DiST_S/output_vis/
+DiST_S/reproj_nus/
+depth_process/mvs_input_root
+depth_process/nus_Rdepth
+depth_process/visualrecon/Annotate/ChamferDistancePytorch
+depth_process/visualrecon/SemSeg/SegFormer/configs

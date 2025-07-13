@@ -1,0 +1,20 @@
+cython
+scipy
+shapely
+h5py
+submitit
+scikit-image
+timm
+einops
+icecream
+setuptools
+wandb
+ftfy
+regex
+inflect
+diffdist
+pytorch_lightning==1.6.4
+tqdm
+# mmcv
+-f https://shi-labs.com/natten/wheels/cu111/torch1.8/index.html
+natten

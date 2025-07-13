@@ -1,0 +1,16 @@
+einops==0.4.1
+matplotlib
+multiprocess
+open3d==0.13.0
+opencv-python
+Pillow
+plyfile
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorboardX
+torch==1.9.1
+torchvision==0.10.1
+tornado
+tqdm
+trimesh
