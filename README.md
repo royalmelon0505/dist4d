@@ -94,6 +94,8 @@ cd depth_process/visualrecon
 
 The processed depth and semantic will be put in `depth_process/nus_Rdepth` (A scene takes up about 3GB)
 
+We have also provided some preprocessed scenes on the validation set to facilitate testing. Please download these scenes from [Hugging Face](https://huggingface.co/datasets/melon287/nus_Rdepth/blob/main/release_data_nus_Rdepth.zip)
+
 ### DiST-T
 1. conda environment: 
 
